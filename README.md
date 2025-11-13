@@ -30,7 +30,7 @@ composer require appitudeio/lcms-storage
 
 require_once 'vendor/autoload.php';
 
-use LCMS\Storage\Storage;
+use LCMS\Storage;
 
 // Initialize client
 $storage = new Storage('your-domain.com', 'your_api_key');
