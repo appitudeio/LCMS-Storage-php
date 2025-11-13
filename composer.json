@@ -1,0 +1,23 @@
+{
+  "name": "appitudeio/lcms-storage",
+  "description": "Official PHP SDK for LCMS Storage - Asset management and CDN platform",
+  "version": "0.1.0",
+  "type": "library",
+  "license": "MIT",
+  "keywords": ["lcms", "storage", "assets", "upload", "cdn", "files"],
+  "require": {
+    "php": ">=8.1",
+    "guzzlehttp/guzzle": "^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "LCMS\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Appitude",
+      "email": "support@appitudeio.com"
+    }
+  ]
+}
