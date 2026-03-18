@@ -1,7 +1,7 @@
 {
   "name": "appitudeio/lcms-storage",
   "description": "Official PHP SDK for LCMS Storage - Asset management and CDN platform",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "type": "library",
   "license": "MIT",
   "keywords": ["lcms", "storage", "assets", "upload", "cdn", "files"],

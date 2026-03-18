@@ -14,7 +14,7 @@ class Storage
     private Client $client;
     private string $domain;
     private string $apiKey;
-    private string $apiUrl = 'https://api.logicalcms.com';
+    private string $apiUrl = 'https://api2.logicalcms.com';
 
     /**
      * Initialize LCMS Storage client
